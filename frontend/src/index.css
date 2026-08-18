@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background-color: #fdb74e;
+  background-image: url('/images/triangles-yellow.svg');
+  background-repeat: repeat;
+  background-position: top center;
+  background-attachment: fixed;
+}
